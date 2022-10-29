@@ -2,6 +2,10 @@ p{
    color: blue;
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    background-color: bisque;
+<<<<<<< HEAD
    font-size:x-large;
+=======
+   font-size: smaller;
+>>>>>>> 65011cd2ecd985b1f5129169fbf6d6d1ca5d332f
 
 }
