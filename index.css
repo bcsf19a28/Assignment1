@@ -1,10 +1,9 @@
-p{
-   color: blue;
-   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-   background-color: bisque;
-   font-size:x-large;
-
+.main{
+   color:red;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
 }
-h1{
-   color: blueviolet;
+body{
+   background-color: black;
+   color: white;
 }
